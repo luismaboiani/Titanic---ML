@@ -1,2 +1,2 @@
 # Titanic---ML
-Es es el repositorio de muestra del proyecto TITANIC
+Este es el repositorio de muestra del proyecto TITANIC
